@@ -47,6 +47,8 @@ INSTALLED_APPS = [
     'allauth.socialaccount', # new
     'dj_rest_auth',
     'dj_rest_auth.registration', # new
+    'drf_yasg2', # new
+
 
     # Local
     'posts.apps.PostsConfig', # new
